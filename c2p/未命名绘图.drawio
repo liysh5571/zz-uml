@@ -308,11 +308,11 @@
         </mxCell>
         <mxCell id="b8ExkfggQn2BXTGjvTqm-137" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;10.4.3.1 如果复检后影响价格&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;则修改所有竞拍单状态为&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; font-style: italic;&quot;&gt;POSITIVE_FAILURE&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;900&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt; font-family: Menlo-Regular, monospace;&quot;&gt;主动流拍&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;align=center;" edge="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry x="-0.3284" y="36" relative="1" as="geometry">
-            <mxPoint x="60" y="7182" as="sourcePoint" />
-            <mxPoint x="55" y="7221" as="targetPoint" />
+            <mxPoint x="60" y="7172" as="sourcePoint" />
+            <mxPoint x="55" y="7211" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="105" y="7182.5" />
-              <mxPoint x="105" y="7221.5" />
+              <mxPoint x="100" y="7172" />
+              <mxPoint x="100" y="7211" />
             </Array>
             <mxPoint x="-1" y="-10" as="offset" />
           </mxGeometry>
@@ -357,6 +357,17 @@
               <mxPoint x="575" y="990" />
             </Array>
             <mxPoint x="1054.5" y="990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b8ExkfggQn2BXTGjvTqm-179" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;10.4.3.4&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;开始竞拍竞拍结束推进到70&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;align=center;" edge="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="0.2537" y="60" relative="1" as="geometry">
+            <mxPoint x="55" y="7271" as="sourcePoint" />
+            <mxPoint x="50" y="7310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="7271.5" />
+              <mxPoint x="100" y="7310.5" />
+            </Array>
+            <mxPoint x="60" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;zzpostapi&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -630,6 +641,16 @@
         <mxCell id="b8ExkfggQn2BXTGjvTqm-168" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry x="45" y="8170" width="10" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="b8ExkfggQn2BXTGjvTqm-177" value="&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i&gt;10.4.3.3 如果是红布林则通知红布林结束竞拍&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=-0.1;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="0.2078" y="9" relative="1" as="geometry">
+            <mxPoint x="-224.5" y="7250" as="sourcePoint" />
+            <mxPoint x="324.5" y="7250" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="45.5" y="7220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#161717&quot;&gt;aladdin&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="80" width="100" height="9150" as="geometry" />
         </mxCell>
@@ -687,13 +708,6 @@
           <mxGeometry x="0.2078" y="9" relative="1" as="geometry">
             <mxPoint x="-370" y="8510" as="sourcePoint" />
             <mxPoint x="179" y="8510" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8ExkfggQn2BXTGjvTqm-177" value="&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i&gt;10.4.3.3 如果是红布林则通知红布林结束竞拍&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=-0.1;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-5">
-          <mxGeometry x="0.2078" y="9" relative="1" as="geometry">
-            <mxPoint x="-370" y="7280" as="sourcePoint" />
-            <mxPoint x="179" y="7280" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -766,18 +780,8 @@
         <mxCell id="b8ExkfggQn2BXTGjvTqm-176" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-6">
           <mxGeometry x="45" y="8492" width="10" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="b8ExkfggQn2BXTGjvTqm-138" value="&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i&gt;10.4.3.2通知业务中台流拍&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="7baba1c4bc27f4b0-6">
-          <mxGeometry x="0.2078" y="9" relative="1" as="geometry">
-            <mxPoint x="-510" y="7232" as="sourcePoint" />
-            <mxPoint x="880" y="7232" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="180" y="7191" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b8ExkfggQn2BXTGjvTqm-178" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-6">
-          <mxGeometry x="45" y="7262" width="10" height="48" as="geometry" />
+          <mxGeometry x="45" y="7242" width="10" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;user&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="-290" y="80" width="100" height="7570" as="geometry" />
@@ -1585,6 +1589,16 @@
         <mxCell id="FXH2Ixe-mfoifMFyd7sT-138" value="&lt;h4&gt;&lt;font style=&quot;font-size: 21px;&quot; color=&quot;#ea6b66&quot;&gt;邮寄流程&lt;/font&gt;&lt;/h4&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FXH2Ixe-mfoifMFyd7sT-136" vertex="1" connectable="0">
           <mxGeometry x="0.0112" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b8ExkfggQn2BXTGjvTqm-138" value="&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i&gt;10.4.3.2通知业务中台流拍&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1">
+          <mxGeometry x="0.2078" y="9" relative="1" as="geometry">
+            <mxPoint x="310" y="7300" as="sourcePoint" />
+            <mxPoint x="1700" y="7300" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1000" y="7259" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
