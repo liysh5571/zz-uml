@@ -1151,7 +1151,7 @@
           <mxGeometry x="45" y="6950" width="10" height="48" as="geometry" />
         </mxCell>
         <mxCell id="b8ExkfggQn2BXTGjvTqm-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="FXH2Ixe-mfoifMFyd7sT-110" vertex="1">
-          <mxGeometry x="45" y="7110" width="10" height="48" as="geometry" />
+          <mxGeometry x="45" y="7200" width="10" height="48" as="geometry" />
         </mxCell>
         <mxCell id="b8ExkfggQn2BXTGjvTqm-162" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="FXH2Ixe-mfoifMFyd7sT-110" vertex="1">
           <mxGeometry x="45" y="7890" width="10" height="48" as="geometry" />
@@ -1594,7 +1594,7 @@
         <mxCell id="b8ExkfggQn2BXTGjvTqm-138" value="&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i&gt;10.4.3.2通知业务中台流拍&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" edge="1">
           <mxGeometry x="0.2078" y="9" relative="1" as="geometry">
             <mxPoint x="310" y="7300" as="sourcePoint" />
-            <mxPoint x="1700" y="7300" as="targetPoint" />
+            <mxPoint x="1710" y="7300" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="1000" y="7259" />
