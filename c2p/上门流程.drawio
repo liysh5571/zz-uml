@@ -92,7 +92,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZEFfsgulWvUyu0J_CY3-33" value="商户出价" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-33" value="商户出价/重新出价" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-82.5" y="1010" as="sourcePoint" />
             <mxPoint x="40" y="1010" as="targetPoint" />
@@ -111,6 +111,34 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="45" y="1570" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-73" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;update&amp;nbsp;&amp;nbsp;t_luxury_auction_order&amp;nbsp;（&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;state =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; font-style: italic;&quot;&gt;WAIT_OFFER&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;100&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt; font-family: Menlo-Regular, monospace;&quot;&gt;商品待出价&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt; font-family: Menlo-Regular, monospace;&quot;&gt;商品待出价&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;）&amp;nbsp; - &amp;gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;state =&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; font-style: italic;&quot;&gt;QUIT&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;920&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt; font-family: Menlo-Regular, monospace;&quot;&gt;放弃出价&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt; font-family: Menlo-Regular, monospace;&quot;&gt;放弃出价&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="-0.5087" relative="1" as="geometry">
+            <mxPoint x="55.000000000000114" y="1690.04" as="sourcePoint" />
+            <mxPoint x="59.620000000000005" y="1727.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="1690" />
+              <mxPoint x="100" y="1728" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-74" value="&lt;div&gt;统计当前竞拍商品的竞拍单总个数 a 统计当前竞拍商品的竞拍中放弃出价的竞拍单个数 b&amp;nbsp; &amp;nbsp;统计 b/a&amp;nbsp; 和&amp;nbsp; 某个阈值之间做对比超过则&lt;font color=&quot;#ff0000&quot;&gt;结束竞拍&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="-0.3272" y="25" relative="1" as="geometry">
+            <mxPoint x="60.379999999999995" y="1840" as="sourcePoint" />
+            <mxPoint x="55" y="1877.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="1839.94" />
+              <mxPoint x="105" y="1877.94" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="50" y="1750" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-4" value="hbl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="80" width="100" height="2120" as="geometry" />
@@ -189,6 +217,9 @@
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="45" y="980" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="45" y="1560" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wZEFfsgulWvUyu0J_CY3-1" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="20" height="50" as="geometry" />
@@ -336,6 +367,35 @@
             <Array as="points">
               <mxPoint x="224.62" y="1535.94" />
               <mxPoint x="224.62" y="1573.94" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-70" value="商户拒绝出价" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1.05;exitY=0.182;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wZEFfsgulWvUyu0J_CY3-69">
+          <mxGeometry x="-0.1837" relative="1" as="geometry">
+            <mxPoint x="40" y="1659.5" as="sourcePoint" />
+            <mxPoint x="162.5" y="1659.5" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-72" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;查询竞拍单信息&lt;/span&gt;t_luxury_auction_order&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;（state =&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; font-style: italic;&quot;&gt;WAIT_OFFER&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;100&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt; font-family: Menlo-Regular, monospace;&quot;&gt;商品待出价&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt; font-family: Menlo-Regular, monospace;&quot;&gt;商品待出价&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;）&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.5087" relative="1" as="geometry">
+            <mxPoint x="175.0000000000001" y="1686.04" as="sourcePoint" />
+            <mxPoint x="179.62" y="1723.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1686" />
+              <mxPoint x="220" y="1724" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZEFfsgulWvUyu0J_CY3-76" value="&lt;div&gt;hbl&amp;nbsp; 一眼假操作流拍，通知竞拍结果发mq&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.3272" y="25" relative="1" as="geometry">
+            <mxPoint x="185.38" y="1840" as="sourcePoint" />
+            <mxPoint x="180" y="1877.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="1839.94" />
+              <mxPoint x="230" y="1877.94" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
