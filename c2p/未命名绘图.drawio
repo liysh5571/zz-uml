@@ -1101,7 +1101,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FXH2Ixe-mfoifMFyd7sT-81" value="5.7根据质检报告中通过不通过结果更新回收单子状态&lt;div&gt;不通过则&lt;font color=&quot;#ff0000&quot;&gt;直接推进到70&lt;/font&gt;；不发起竞拍&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;如果通过则&lt;font color=&quot;#ff0000&quot;&gt;开始竞拍竞拍结束推进到70&lt;/font&gt; tag&amp;nbsp;&lt;span style=&quot;font-style: italic; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;LUXURY_AUCTION_START&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="FXH2Ixe-mfoifMFyd7sT-81" value="5.7根据质检报告中通过不通过结果更新回收单子状态&lt;div&gt;不通过则&lt;font color=&quot;#ff0000&quot;&gt;直接推进到70&lt;/font&gt;；不发起竞拍&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;如果通过则&lt;font color=&quot;#ff0000&quot;&gt;开始竞拍竞拍&lt;/font&gt;&amp;nbsp;tag&amp;nbsp;&lt;span style=&quot;font-style: italic; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;LUXURY_AUCTION_START&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry x="-0.0769" relative="1" as="geometry">
             <mxPoint x="320" y="2220" as="sourcePoint" />
             <mxPoint x="580" y="2220" as="targetPoint" />
