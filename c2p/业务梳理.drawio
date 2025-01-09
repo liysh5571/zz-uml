@@ -190,9 +190,6 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-85" value="竞拍单" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1005" y="128" width="280" height="3142" as="geometry" />
         </mxCell>
-        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-86" value="开始并到期结束竞拍" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-85">
-          <mxGeometry x="80" y="1032" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-87" value="鉴定师鉴定" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="-717.67" y="128" width="280" height="3142" as="geometry" />
         </mxCell>
