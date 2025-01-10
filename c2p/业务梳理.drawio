@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2502" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2978" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,13 +163,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-80" value="开始并到期结束竞拍" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-51">
-          <mxGeometry x="80" y="982" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="932" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="EZE-OWPgXGvBPy29LJ_Y-51" source="EZE-OWPgXGvBPy29LJ_Y-186">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135.06666666666706" y="1870" as="sourcePoint" />
             <mxPoint x="135" y="1937" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EZE-OWPgXGvBPy29LJ_Y-51" source="EZE-OWPgXGvBPy29LJ_Y-156" target="EZE-OWPgXGvBPy29LJ_Y-203">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-156" value="结束之前的新开一个竞拍" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-51">
           <mxGeometry x="75" y="2071" width="120" height="40" as="geometry" />
@@ -181,7 +184,10 @@
           <mxGeometry x="75" y="1866" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-196" value="是否成拍" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-51">
-          <mxGeometry x="72.5" y="1082" width="135" height="58" as="geometry" />
+          <mxGeometry x="72.5" y="1047" width="135" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-203" value="是否成拍" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-51">
+          <mxGeometry x="86.65999999999997" y="2187" width="96.67" height="58" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-57" value="私域" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="-437.67" y="128" width="280" height="3142" as="geometry" />
@@ -191,9 +197,6 @@
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-77" value="私域的后台确单&lt;div&gt;上门的自动确认&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-57">
           <mxGeometry y="162" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-78" value="没有50的状态&lt;div&gt;派单后是60的状态&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-57">
-          <mxGeometry x="85.5" y="592" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="15" target="EZE-OWPgXGvBPy29LJ_Y-47">
           <mxGeometry relative="1" as="geometry" />
@@ -207,7 +210,7 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="EZE-OWPgXGvBPy29LJ_Y-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-72" target="EZE-OWPgXGvBPy29LJ_Y-80">
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-72" target="EZE-OWPgXGvBPy29LJ_Y-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="581" y="1120" as="sourcePoint" />
             <mxPoint x="300" y="1202" as="targetPoint" />
@@ -403,11 +406,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-156" target="EZE-OWPgXGvBPy29LJ_Y-165">
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.044;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-203" target="EZE-OWPgXGvBPy29LJ_Y-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="2344" />
+              <mxPoint x="800" y="2344" />
+              <mxPoint x="800" y="2344" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-205" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EZE-OWPgXGvBPy29LJ_Y-167">
+          <mxGeometry x="-0.2071" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-153" target="EZE-OWPgXGvBPy29LJ_Y-165">
@@ -466,13 +475,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="1400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="865" y="1406" />
-              <mxPoint x="635" y="1406" />
+              <mxPoint x="865" y="1394" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-202" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EZE-OWPgXGvBPy29LJ_Y-201">
           <mxGeometry x="-0.5192" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-203" target="EZE-OWPgXGvBPy29LJ_Y-179">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="2554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-207" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EZE-OWPgXGvBPy29LJ_Y-206">
+          <mxGeometry x="-0.318" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
