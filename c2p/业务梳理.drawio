@@ -284,7 +284,7 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-106" value="待分配（1000）" style="" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-102">
           <mxGeometry x="85.5" y="392" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-113" value="处理中（3000）" style="" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-102">
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-113" value="待报价（3010）" style="" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-102">
           <mxGeometry x="85" y="568" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-114" value="报价中（3020）" style="" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-102">
@@ -313,6 +313,9 @@
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-108" value="待上门（2000）" style="" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-102">
           <mxGeometry x="85" y="458" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-208" value="打款完成&#xa;（3070）" style="" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-102">
+          <mxGeometry x="106.09" y="1524" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-53" target="EZE-OWPgXGvBPy29LJ_Y-106">
           <mxGeometry relative="1" as="geometry" />
