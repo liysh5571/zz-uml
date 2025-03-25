@@ -229,6 +229,9 @@
         <mxCell id="zwzdZRf4PgVf-TQgRxlS-39" value="二段单回收完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-85">
           <mxGeometry x="75" y="2682" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-43" value="创建二段单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-85">
+          <mxGeometry x="75" y="2512" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-87" value="鉴定" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-717.67" y="128" width="280" height="2742" as="geometry" />
         </mxCell>
@@ -534,6 +537,14 @@
         </mxCell>
         <mxCell id="zwzdZRf4PgVf-TQgRxlS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwzdZRf4PgVf-TQgRxlS-41" target="zwzdZRf4PgVf-TQgRxlS-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-170" target="zwzdZRf4PgVf-TQgRxlS-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="2744" />
+              <mxPoint x="690" y="2660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
