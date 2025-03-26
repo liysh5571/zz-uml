@@ -134,7 +134,7 @@
             <mxPoint x="130" y="2302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-28" value="提交邮寄任务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-28" value="创建邮寄任务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="3" vertex="1">
           <mxGeometry x="70.50999999999998" y="1592" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-42" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;C2P上门业务流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -166,13 +166,10 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-196" value="是否成拍" style="rhombus;whiteSpace=wrap;html=1;" parent="EZE-OWPgXGvBPy29LJ_Y-51" vertex="1">
           <mxGeometry x="72.5" y="1047" width="135" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-19" value="买家支付" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-51">
-          <mxGeometry x="87.5" y="1592" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-37" value="买家支付" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-51">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-37" value="买家支付" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EZE-OWPgXGvBPy29LJ_Y-51" vertex="1">
           <mxGeometry x="72.5" y="2592" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-41" value="买家收货" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-51">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-41" value="买家收货" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EZE-OWPgXGvBPy29LJ_Y-51" vertex="1">
           <mxGeometry x="75" y="2682" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-57" value="私域" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
@@ -223,13 +220,13 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-85" value="zzrecycling" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="1005" y="128" width="280" height="2742" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-15" value="创建二段单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-85">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-15" value="创建二段单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EZE-OWPgXGvBPy29LJ_Y-85" vertex="1">
           <mxGeometry x="80" y="1592" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-39" value="二段单回收完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-85">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-39" value="二段单回收完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EZE-OWPgXGvBPy29LJ_Y-85" vertex="1">
           <mxGeometry x="75" y="2682" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-43" value="创建二段单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-85">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-43" value="创建二段单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EZE-OWPgXGvBPy29LJ_Y-85" vertex="1">
           <mxGeometry x="75" y="2512" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-87" value="鉴定" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
@@ -306,6 +303,9 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-133" value="前往服务（2010）" style="" parent="EZE-OWPgXGvBPy29LJ_Y-102" vertex="1">
           <mxGeometry x="85" y="516" width="110" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="0cEzOgvrc82-WshAzxFz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EZE-OWPgXGvBPy29LJ_Y-102" source="EZE-OWPgXGvBPy29LJ_Y-136" target="0cEzOgvrc82-WshAzxFz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-136" value="需要复检（3080）&#xa;等价于7003" style="" parent="EZE-OWPgXGvBPy29LJ_Y-102" vertex="1">
           <mxGeometry x="106.08" y="1642" width="110" height="48" as="geometry" />
         </mxCell>
@@ -320,6 +320,9 @@
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-208" value="打款完成&#xa;（3070）" style="" parent="EZE-OWPgXGvBPy29LJ_Y-102" vertex="1">
           <mxGeometry x="106.09" y="1524" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0cEzOgvrc82-WshAzxFz-15" value="创建回仓任务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EZE-OWPgXGvBPy29LJ_Y-102">
+          <mxGeometry x="101.08999999999997" y="1732" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-53" target="EZE-OWPgXGvBPy29LJ_Y-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -470,7 +473,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="zwzdZRf4PgVf-TQgRxlS-15" parent="1" target="zwzdZRf4PgVf-TQgRxlS-28">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zwzdZRf4PgVf-TQgRxlS-15" target="zwzdZRf4PgVf-TQgRxlS-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="576" y="1720" as="targetPoint" />
             <Array as="points">
@@ -479,10 +482,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-21" value="OMS仓储网关" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-21" value="OMS仓储网关" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="1285" y="128" width="280" height="2742" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="zwzdZRf4PgVf-TQgRxlS-21">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="zwzdZRf4PgVf-TQgRxlS-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="1706" as="targetPoint" />
             <mxPoint x="145" y="1706" as="sourcePoint" />
@@ -491,13 +494,13 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-186" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;红布林收货入库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="zwzdZRf4PgVf-TQgRxlS-21" vertex="1">
           <mxGeometry x="85" y="1796" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-38" value="创建出库单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="zwzdZRf4PgVf-TQgRxlS-21">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-38" value="创建出库单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="zwzdZRf4PgVf-TQgRxlS-21" vertex="1">
           <mxGeometry x="80" y="2592" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-24" value="TMS物流" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-24" value="TMS物流" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="1565" y="128" width="280" height="2742" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="zwzdZRf4PgVf-TQgRxlS-24">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="zwzdZRf4PgVf-TQgRxlS-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="1706" as="targetPoint" />
             <mxPoint x="145" y="1706" as="sourcePoint" />
@@ -506,45 +509,42 @@
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-145" value="同步物流消息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="zwzdZRf4PgVf-TQgRxlS-24" vertex="1">
           <mxGeometry x="69" y="1706" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-100" target="zwzdZRf4PgVf-TQgRxlS-15">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-100" target="zwzdZRf4PgVf-TQgRxlS-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-185" target="EZE-OWPgXGvBPy29LJ_Y-149">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-185" target="EZE-OWPgXGvBPy29LJ_Y-149" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="575" y="1990" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-186" target="EZE-OWPgXGvBPy29LJ_Y-144">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-186" target="EZE-OWPgXGvBPy29LJ_Y-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-142" target="EZE-OWPgXGvBPy29LJ_Y-145">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-142" target="EZE-OWPgXGvBPy29LJ_Y-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-145" target="EZE-OWPgXGvBPy29LJ_Y-186">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-145" target="EZE-OWPgXGvBPy29LJ_Y-186" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1694" y="1944" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwzdZRf4PgVf-TQgRxlS-37" target="zwzdZRf4PgVf-TQgRxlS-38">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zwzdZRf4PgVf-TQgRxlS-37" target="zwzdZRf4PgVf-TQgRxlS-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwzdZRf4PgVf-TQgRxlS-41" target="zwzdZRf4PgVf-TQgRxlS-39">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zwzdZRf4PgVf-TQgRxlS-41" target="zwzdZRf4PgVf-TQgRxlS-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-170" target="zwzdZRf4PgVf-TQgRxlS-43">
+        <mxCell id="zwzdZRf4PgVf-TQgRxlS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-170" target="zwzdZRf4PgVf-TQgRxlS-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="2744" />
               <mxPoint x="690" y="2660" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zwzdZRf4PgVf-TQgRxlS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwzdZRf4PgVf-TQgRxlS-19" target="zwzdZRf4PgVf-TQgRxlS-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
