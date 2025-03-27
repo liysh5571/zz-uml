@@ -262,9 +262,6 @@
             <mxPoint x="525.5" y="934" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZE-OWPgXGvBPy29LJ_Y-87" value="鉴定" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="-429.99999999999994" y="130" width="280" height="2842" as="geometry" />
-        </mxCell>
         <mxCell id="EZE-OWPgXGvBPy29LJ_Y-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EZE-OWPgXGvBPy29LJ_Y-89" target="EZE-OWPgXGvBPy29LJ_Y-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
